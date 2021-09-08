@@ -36,7 +36,9 @@ var questions=[{
  {
   question:"In 9th and 10th my hobby was to write_____ ",
   answer:"poem",
-}];
+},
+ {question:"I did not pay attention to my engish _______ class",
+  answer:"Grammer"}];
 
 //loops
 for(i=0;i<questions.length;i++){
@@ -67,6 +69,28 @@ for (var i=0;i<highScore.length;i++)
    }
   };
 console.log(checkScore(score));
+
+
+
+// console.log("Score Board: ");
+// for(i=0;i<highScore.length;i++){
+//  // var high=highscore[i];
+//   console.log(highScore[i].name+":"+highscore[i].score);
+// }
+
+
+// var name=highScore.name;
+// var score=highScore.score;
+// function checkScore(name,score){
+// for(i=0;i<highScore.length;i++){
+//    if(score>3){
+//     console.log("✨✨✨✨✨✨✨");
+//     console.log("🎉🎉🎉Congratulations🎉🎉🎉");
+//     console.log("Send me a screenshot😇")
+//    }
+//   }
+// }
+// console.log(checkScore("Sumaiya","4"));
 
 
 
