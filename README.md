@@ -6,12 +6,23 @@
  I wish things were taught the same way at school
  I could have learned so many things.
  fine---no use regretting.
+
 # Tech used---
 * node.js
    * readlinesync
     * chalk
 * markdown
-## I learned---
+
+# Bonus
+* Explore docs
+   * [ ] ReadlineSync
+   * [ ] CHALK
+* Do
+  * [ ] has the user beaten high score?
+  * [ ] leapyear
+  * [ ] prime number
+
+# I learned---
 * functions
 loved the function analogy,
 function is like a processing unit.
