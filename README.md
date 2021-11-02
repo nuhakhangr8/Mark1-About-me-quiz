@@ -19,7 +19,7 @@
    * [ ] CHALK
 * Do
   * [ ] has the user beaten high score?
-  * [ ] leapyear
+  * [x] [leapyear](https://replit.com/@NuhaKhan/leapyear#index.js?embed=1&output=1)
      * [ ] Chalk to make it beautiful
      * [ ] Bonus: check the input type and show an error if          user entered "potato" instead of a date format 
      * [ ] GUI app using vanillaJS
