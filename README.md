@@ -20,7 +20,14 @@
 * Do
   * [ ] has the user beaten high score?
   * [ ] leapyear
+     * [ ] Chalk to make it beautiful
+     * [ ] Bonus: check the input type and show an error if          user entered "potato" instead of a date format 
+     * [ ] GUI app using vanillaJS
+     * [ ] GUI app using ReactJS 
   * [ ] prime number
+    * [ ] Chalk to make it beautiful
+    * [ ] GUI app using vanillaJS
+    * [ ] GUI app using ReactJS 
 
 # I learned---
 * functions
