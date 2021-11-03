@@ -18,7 +18,7 @@
    * [ ] ReadlineSync
    * [ ] CHALK
 * Do
-  * [ ] has the user beaten high score?
+  * [x] has the user beaten high score?
   * [x] [leapyear](https://replit.com/@NuhaKhan/leapyear#index.js?embed=1&output=1)
      * [ ] use Chalk
      * [ ] Bonus: check the input type and show an error if 
